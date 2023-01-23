@@ -10,3 +10,7 @@ Options:
 Question 13:
 
 Options:
+
+Appendix:
+
+[Interesting resource](https://ethanweed.github.io/pythonbook/05.02-ttest.html#)

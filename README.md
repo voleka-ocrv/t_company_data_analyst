@@ -5,6 +5,15 @@ Question 1:
 
 Options:
 
+Question 7/13: What is the probabilyty that a country has GDP over $10 000, if we know that they have at least 5 hospital beds per 1000 inhabitants?
+
+Options:
+- [ ] 92%
+- [ ] 88%
+- [ ] 71%
+- [ ] 54%
+- [ ] 39%
+
 ...
 
 Question 13:

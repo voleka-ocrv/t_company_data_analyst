@@ -9,7 +9,7 @@ Question 7/13: What is the probabilyty that a country has GDP over $10 000, if w
 
 Options:
 - [ ] 92%
-- [ ] 88%
+- [x] 88%
 - [ ] 71%
 - [ ] 54%
 - [ ] 39%

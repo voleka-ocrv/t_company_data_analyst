@@ -2,14 +2,16 @@
 The test by turing.com for data analyst.
 
 Question 1: 
+
 Which country has the 3rd death rate? Death rate: total number of death per million inhabitants.
 - [ ] Italy
-- [ ] Andorra
+- [x] Andorra
 - [ ] USA
 - [ ] Belgium
 - [ ] Spain
 
 Question 2: 
+
 How tall are the tallest 1% of people?
 - [ ] They are taller than 186 cm
 - [ ] They are taller than 175 cm
@@ -18,6 +20,7 @@ How tall are the tallest 1% of people?
 - [ ] They are taller than 191 cm
 
 Question 3: 
+
 Which two features have the highest spearman rank correlation?
 - [ ] Age and weight
 - [ ] Age and blood preasure
@@ -25,6 +28,7 @@ Which two features have the highest spearman rank correlation?
 - [ ] Gender and height
 
 Question 4: 
+
 Do people over 50 have higher cholesterol levels than the rest?
 - [ ] Yes, their cholesterol level is 29% higher on average
 - [ ] No, it's about the same
@@ -33,6 +37,7 @@ Do people over 50 have higher cholesterol levels than the rest?
 - [ ] Yes, their cholesterol level is 19% higher on average
 
 Question 5: 
+
 How much heavier the age group with the highest average weight than the age group with the lowest average weight?
 - [ ] 45% havier
 - [ ] 28% havier

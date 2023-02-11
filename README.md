@@ -44,9 +44,9 @@ How much heavier the age group with the highest average weight than the age grou
 ## Question 6: 
 Which of the following statements is true with 95% confidence?
 - [ ] Smokers have higher blood pressure than non-smokers
-- [ ] Smokers have higher cholisterol level than non-smokers
+- [x] Smokers have higher cholisterol level than non-smokers
 - [ ] Smokers weight less than non-smokers
-- [ ] Men have higher blood pressure than women (???)
+- [x] Men have higher blood pressure than women (???)
 
 ## Question 7: 
 What is the probabilyty that a country has GDP over $10 000, if we know that they have at least 5 hospital beds per 1000 inhabitants?

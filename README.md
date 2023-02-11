@@ -20,8 +20,8 @@ How tall are the tallest 1% of people?
 ## Question 3: 
 Which two features have the highest spearman rank correlation?
 - [ ] Age and weight
-- [ ] Age and blood preasure
-- [x] Blood preasure levels (ap_hi, ap_low)
+- [ ] Age and blood presure
+- [x] Blood presure levels (ap_hi, ap_low)
 - [x] Gender and height
 
 ## Question 4: 
@@ -39,14 +39,14 @@ How much heavier the age group with the highest average weight than the age grou
 - [ ] 13% havier
 - [ ] 87% havier
 - [ ] 9% havier
-(Please, load "cardio_base.csv". This is a health dataset. Each row represents a person and corresponding attributes like age, height, weight, blood preassure, cholesterol level, etc. When asked about age, please calculate with age in years rounded down.)
+(Please, load "cardio_base.csv". This is a health dataset. Each row represents a person and corresponding attributes like age, height, weight, blood pressure, cholesterol level, etc. When asked about age, please calculate with age in years rounded down.)
 
 ## Question 6: 
 Which of the following statements is true with 95% confidence?
-- [ ] Smokers have higher blood preassure than non-smokers
+- [ ] Smokers have higher blood pressure than non-smokers
 - [ ] Smokers have higher cholisterol level than non-smokers
 - [ ] Smokers weight less than non-smokers
-- [ ] Men have higher blood preassure than women
+- [ ] Men have higher blood pressure than women (???)
 
 ## Question 7: 
 What is the probabilyty that a country has GDP over $10 000, if we know that they have at least 5 hospital beds per 1000 inhabitants?

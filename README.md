@@ -16,7 +16,7 @@ How tall are the tallest 1% of people?
 - [ ] They are taller than 186 cm
 - [ ] They are taller than 175 cm
 - [ ] They are taller than 147 cm
-- [ ] They are taller than 184 cm
+- [x] They are taller than 184 cm
 - [ ] They are taller than 191 cm
 
 Question 3: 
@@ -24,14 +24,14 @@ Question 3:
 Which two features have the highest spearman rank correlation?
 - [ ] Age and weight
 - [ ] Age and blood preasure
-- [ ] Blood preasure levels (ap_hi, ap_low)
-- [ ] Gender and height
+- [x] Blood preasure levels (ap_hi, ap_low)
+- [x] Gender and height
 
 Question 4: 
 
 Do people over 50 have higher cholesterol levels than the rest?
 - [ ] Yes, their cholesterol level is 29% higher on average
-- [ ] No, it's about the same
+- [x] No, it's about the same
 - [ ] No, people over 50 have 7% lower cholesterol level
 - [ ] Yes, their cholesterol level is 14% higher on average
 - [ ] Yes, their cholesterol level is 19% higher on average
@@ -40,7 +40,7 @@ Question 5:
 
 How much heavier the age group with the highest average weight than the age group with the lowest average weight?
 - [ ] 45% havier
-- [ ] 28% havier
+- [x] 28% havier
 - [ ] 13% havier
 - [ ] 87% havier
 - [ ] 9% havier

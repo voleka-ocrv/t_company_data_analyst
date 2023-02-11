@@ -1,7 +1,21 @@
 # turing_data_analyst
 The test by turing.com for data analyst.
 
-Question 1:
+Question 1: 
+Which country has the 3rd death rate? Death rate: total number of death per million inhabitants.
+- [ ] Italy
+- [ ] Andorra
+- [ ] USA
+- [ ] Belgium
+- [ ] Spain
+
+Question 2: 
+How tall are the tallest 1% of people?
+- [ ] They are taller than 186 cm
+- [ ] They are taller than 175 cm
+- [ ] They are taller than 147 cm
+- [ ] They are taller than 184 cm
+- [ ] They are taller than 191 cm
 
 Options:
 

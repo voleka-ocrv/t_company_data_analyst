@@ -17,9 +17,40 @@ How tall are the tallest 1% of people?
 - [ ] They are taller than 184 cm
 - [ ] They are taller than 191 cm
 
-Options:
+Question 3: 
+Which two features have the highest spearman rank correlation?
+- [ ] Age and weight
+- [ ] Age and blood preasure
+- [ ] Blood preasure levels (ap_hi, ap_low)
+- [ ] Gender and height
 
-Question 7/13: What is the probabilyty that a country has GDP over $10 000, if we know that they have at least 5 hospital beds per 1000 inhabitants?
+Question 4: 
+Do people over 50 have higher cholesterol levels than the rest?
+- [ ] Yes, their cholesterol level is 29% higher on average
+- [ ] No, it's about the same
+- [ ] No, people over 50 have 7% lower cholesterol level
+- [ ] Yes, their cholesterol level is 14% higher on average
+- [ ] Yes, their cholesterol level is 19% higher on average
+
+Question 5: 
+How much heavier the age group with the highest average weight than the age group with the lowest average weight?
+- [ ] 45% havier
+- [ ] 28% havier
+- [ ] 13% havier
+- [ ] 87% havier
+- [ ] 9% havier
+(Please, load "cardio_base.csv". This is a health dataset. Each row represents a person and corresponding attributes like age, height, weight, blood preassure, cholesterol level, etc. When asked about age, please calculate with age in years rounded down.)
+
+Question : 
+...?
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+Question 7: 
+What is the probabilyty that a country has GDP over $10 000, if we know that they have at least 5 hospital beds per 1000 inhabitants?
 
 Options:
 - [ ] 92%
@@ -30,7 +61,14 @@ Options:
 
 ...
 
-Question 13:
+
+Question : 
+...?
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 Options:
 

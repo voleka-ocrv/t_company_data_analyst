@@ -1,5 +1,6 @@
 # turing_data_analyst
 The test by turing.com for data analyst.
+Here is [solution](https://github.com/voleka-ocrv/turing_data_analyst/blob/main/turing_test.ipynb).
 
 ## Question 1: 
 Which country has the 3rd death rate? Death rate: total number of death per million inhabitants.

@@ -1,5 +1,5 @@
-# turing_data_analyst
-The test for data analyst. (estimated time 2 hours)
+# t_compaty_data_analyst
+The test for data analyst. Estimated time is 2 hours.
 Here is [solution](https://github.com/voleka-ocrv/turing_data_analyst/blob/main/turing_test.ipynb).
 
 ## Question 1: 

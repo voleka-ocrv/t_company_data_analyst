@@ -1,4 +1,4 @@
-# t_compaty_data_analyst
+# t_company_data_analyst
 The test for data analyst. Estimated time is 2 hours.
 Here is [solution](https://github.com/voleka-ocrv/turing_data_analyst/blob/main/turing_test.ipynb).
 
@@ -57,25 +57,48 @@ What is the probabilyty that a country has GDP over $10 000, if we know that the
 - [ ] 54%
 - [ ] 39%
 
+## Question 8: 
+What is the F1 score of the following statement: 
+Countries, where more than 20% population is over 65 years old, have death rates over 50 per million inhabitants. Ignore countries, where any of the necessary information is missing!
+- [ ] 0.15
+- [ ] 0.73
+- [ ] 0.87
+- [ ] 0.18
+- [ ] 0.21
 
-## Question : 
-...?
-- [ ] 
-- [ ] 
+## Question 9: 
+Are men are more likely to be smoker than women? The data contains information to identify gender IDs!
+- [ ] Yes, men are 12x more likely to be smokers
+- [ ] Yes, men are 7x more likely to be smokers
+- [ ] Similar portion of men and women are smokers
+- [ ] No, women are 12x more likely to be smokers
 
+## Question 10: 
+Look at the cumulative number of confirmed cases in Italy between 2020-02-28 and 2020-03-20. Fin an exponential function (y = Ae^(Bx)) to this set to express cummulative cases as function of days passed, by minimizing squared loss. What is the difference between the exponential curve and the total number of real cases on 2020-03-20?
+- [ ] 11756
+- [ ] 37414
+- [ ] 187963
+- [ ] ~0
+- [ ] 9785
 
-...
+## Question 11: 
+When did the difference in the total number of confirmed cases between Italy and Germaty become more than 10 000?
 
+Second dataset COVID-19 cases. This dataset contains daily COVID-19 cases for all countries in the world. Each row represents a calendar day. The rows also contains some simple information about the countries, like population, percentage of the population over 65, GDP, and hospital beds per 1000 inhabitants. 
+- [ ] 2020-02-28
+- [ ] 2020-02-29
+- [ ] 2020-03-16
+- [ ] 2020-03-12
+- [ ] 2020-03-01
 
-Question : 
-...?
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+## Question 12: 
+What percentage of people are more than 2 standard deviations far from the average height?
+- [ ] 5%
+- [ ] 3%
+- [ ] 2%
+- [ ] 7%
+- [ ] 11%
 
-Options:
 
 Appendix:
 

@@ -63,12 +63,12 @@ Countries, where more than 20% population is over 65 years old, have death rates
 - [ ] 0.15
 - [ ] 0.73
 - [ ] 0.87
-- [ ] 0.18
+- [x] 0.18
 - [ ] 0.21
 
 ## Question 9: 
 Are men are more likely to be smoker than women? The data contains information to identify gender IDs!
-- [ ] Yes, men are 12x more likely to be smokers
+- [x] Yes, men are 12x more likely to be smokers
 - [ ] Yes, men are 7x more likely to be smokers
 - [ ] Similar portion of men and women are smokers
 - [ ] No, women are 12x more likely to be smokers

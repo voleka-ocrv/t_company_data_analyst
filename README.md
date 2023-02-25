@@ -74,7 +74,7 @@ Are men are more likely to be smoker than women? The data contains information t
 - [ ] No, women are 12x more likely to be smokers
 
 ## Question 10: 
-Look at the cumulative number of confirmed cases in Italy between 2020-02-28 and 2020-03-20. Fin an exponential function (y = Ae^(Bx)) to this set to express cummulative cases as function of days passed, by minimizing squared loss. What is the difference between the exponential curve and the total number of real cases on 2020-03-20?
+Look at the cumulative number of confirmed cases in Italy between 2020-02-28 and 2020-03-20. Fit an exponential function (y = Ae^(Bx)) to this set to express cummulative cases as function of days passed, by minimizing squared loss. What is the difference between the exponential curve and the total number of real cases on 2020-03-20?
 - [ ] 11756
 - [ ] 37414
 - [ ] 187963

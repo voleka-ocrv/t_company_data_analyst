@@ -88,7 +88,7 @@ Second dataset COVID-19 cases. This dataset contains daily COVID-19 cases for al
 - [ ] 2020-02-28
 - [ ] 2020-02-29
 - [ ] 2020-03-16
-- [ ] 2020-03-12
+- [x] 2020-03-12
 - [ ] 2020-03-01
 
 ## Question 12: 

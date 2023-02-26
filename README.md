@@ -94,12 +94,7 @@ Second dataset COVID-19 cases. This dataset contains daily COVID-19 cases for al
 ## Question 12: 
 What percentage of people are more than 2 standard deviations far from the average height?
 - [ ] 5%
-- [ ] 3%
+- [x] 3%
 - [ ] 2%
 - [ ] 7%
 - [ ] 11%
-
-
-Appendix:
-
-[Interesting resource](https://ethanweed.github.io/pythonbook/05.02-ttest.html#)
